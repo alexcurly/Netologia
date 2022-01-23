@@ -1,6 +1,6 @@
 package ru.netology.graphics;
 import ru.netology.graphics.image.*;
-import ru.netology.graphics.server.GServer;
+import ru.netology.graphics.server.*;
 import javax.imageio.ImageIO;
 import java.awt.*;
 import java.awt.image.BufferedImage;
